@@ -1,0 +1,129 @@
+icc champions trophy 2009
+league match
+matches played 3
+win 1
+loss 1
+nr 1
+not qualified for semis
+------------------------------------
+icc odi worldcup 2011
+league match
+matches played 6
+win 4
+loss 1
+tied 1
+knock out
+match played 2
+win 2
+finall
+match played 1
+win 1
+----------------------------------------
+icc champions trophy 2013
+league match
+matches played 3
+win 3
+knock out 
+match played 1
+win 1
+finall
+match played 1
+win 1
+----------------------------------------
+icc odi world cup 2015
+league match
+match played 6
+win 6
+knock out
+match played 2
+win 1
+loss 1
+-----------------------------------------
+icc champions trophy 2017
+league match
+match played 3
+win 2
+loss 1
+knock out
+match played 1
+win 1
+finall
+match played 1
+loss 1
+------------------------------------------
+t20
+----------------------------------------
+t20 world cup 2007
+league matches 
+matches played 5
+win 2
+loss 1
+knockout matches
+match played 1
+win 1
+finall
+win 1
+-----------------------------------
+t20 world cup 2009
+league matches
+matches played 5
+win 2
+loss 3
+----------------------------
+t20 world cup 2010
+league matches
+matches played 5
+win 2
+loss 3
+----------------------------
+t20 world cup 2012
+league matches
+matches played 5
+win 2
+loss 3
+---------------------------
+t20 world cup 2014
+league matches
+matches played 4
+win 4
+knockout matches
+matches played 1
+win 1
+finall
+matches played 1
+loss 1
+---------------------------
+t20 world cup 2016
+league matches 
+matches played 4
+win 3
+loss 1
+knockout
+matches played 1
+loss 1
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

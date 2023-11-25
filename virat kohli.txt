@@ -1,0 +1,18 @@
+icc odi worldcup 2019
+league match 
+matches played 9
+win 7
+loss 1
+knock out
+matches played 1
+loss 1
+---------------------------
+t20
+---------------------------
+t20 worldcup 2021
+league  matches 
+matches played 5
+win 3
+loss 2
+---------------------------
+

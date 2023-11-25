@@ -1,0 +1,22 @@
+icc odi world cup 2023
+league matches 
+matches played 9
+win 9
+knock out match 
+matches played 1
+win 1
+finall
+matches played 1
+loss 1
+---------------------------
+t20
+---------------------------
+t20 world cup 2022
+league matches
+matches played 5
+win 4
+loss 1
+knockout 
+matches played 1
+loss 1
+---------------------------
